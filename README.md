@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @nymaka
 - 👀 I’m interested in Aerospace Engineering
 - 🌱 I’m currently learning CFD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on aerodynamics
 - ⚡ Fun fact: SCUBA Diver
 
 <!---
